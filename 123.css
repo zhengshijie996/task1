@@ -1,0 +1,12 @@
+.content-all{
+	    margin:0;
+	    padding:0;
+}
+.content-all>div {
+	width: 30%;
+	padding-top: 30%;
+	margin: 1%;
+	border-radius: 2em;
+	float: left;
+	background-color: yellow;
+}
